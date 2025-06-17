@@ -41,7 +41,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/akash-dubey21)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/akashdubey21/)
 - 📧 ashdubey0230@gmail.com
 
 
