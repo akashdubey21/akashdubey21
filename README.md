@@ -34,9 +34,9 @@
 ## 🏆 Achievements
 
 - ✅ Completed Six Sigma Green Belt Certification
-
+- ✅ Completed Machine Learning  Certification
 - 📃 Internship: AI Intern at SimuSoft Technologies (Jan–April 2024)
-📃 Internship: Web Development at LearnSphere (June–Aug 2025)
+- 📃 Internship: Web Development at LearnSphere (June–Aug 2025)
 ---
 
 ## 📫 Let's Connect
