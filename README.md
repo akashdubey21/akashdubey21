@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Akash Dubey!
 
-🎓 Final Year Student | 💻 Aspiring Full-Stack Developer | 🌱 AI & Data Science Enthusiast
+🎓 BE AI&DS | 💻 Aspiring Full-Stack Developer | 🌱 AI & Data Science Enthusiast
 
 ---
 
@@ -27,7 +27,7 @@
 |--------|-------------|------------|
 | [LearnSphere](https://github.com/akashdubey21/LearnSphere) | E-learning platform with authentication, progress tracking, and payments. | Django, React, AWS |
 | [Krushigyan](https://github.com/akashdubey21/Krushigyan) | Crop recommendation system with ML integration. | Django, XGBoost |
-| [EduPrix](https://github.com/akashdubey21/eduprix-v1.0.0) | Competition engine for hosting online quizzes. | React, Node.js |
+
 
 ---
 
