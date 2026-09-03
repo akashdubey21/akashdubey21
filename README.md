@@ -1,6 +1,20 @@
 # 💫 About Me:
 💻 Full Stack TypeScript Developer focused on building scalable, maintainable, and user-friendly web applications.<br><br>🚀 Currently working on Bookly, building real-world features across the frontend and backend.<br><br>⚡ Experienced with modern full-stack technologies including TypeScript, React, Next.js, Node.js, Express.js, and MongoDB.<br><br>Strong interest in backend engineering, REST APIs, and scalable system design.<br><br>☁️ Exploring cloud deployment, Docker, databases, authentication, and production-ready architectures.<br><br>🧠 Currently improving my DSA, backend development, system design, and software engineering fundamentals.<br><br>🎯 Goal: Become a strong software engineer capable of designing and building scalable products that solve real-world problems.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/akashdubey21/akashdubey21/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/akashdubey21/akashdubey21/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/akashdubey21/akashdubey21/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdubey21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashdubey0230@gmail.com) 
