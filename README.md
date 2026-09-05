@@ -92,15 +92,15 @@ I am a **Software Engineer** specializing in the **TypeScript / JavaScript ecosy
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=akashdubey21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akashdubey21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashdubey21&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=akashdubey21&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdubey21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akashdubey21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
       </td>
     </tr>
   </table>
